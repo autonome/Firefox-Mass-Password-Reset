@@ -1,0 +1,5 @@
+content	masspasswordreset	content/
+locale	masspasswordreset	en-US	locale/en-US/
+skin	masspasswordreset	classic/1.0	skin/
+overlay	chrome://browser/content/browser.xul	chrome://masspasswordreset/content/firefoxOverlay.xul
+overlay	chrome://messenger/content/messenger.xul	chrome://masspasswordreset/content/thunderbirdOverlay.xul
